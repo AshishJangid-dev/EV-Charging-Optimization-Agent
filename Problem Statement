@@ -1,0 +1,11 @@
+Problem Statement- Electric Vehicle Charging Optimization Agent
+The Challenge
+With the rapid growth of electric vehicles (EVs), charging stations often face high demand, uneven usage, and inefficient energy distribution. Peak-hour charging can overload the grid and increase electricity costs for both operators and users. There is a need for an intelligent system that can analyze charging patterns and optimize EV charging schedules.
+The Objective
+Build an Electric Vehicle Charging Optimization Agent that analyzes charging station usage data and provides intelligent recommendations to optimize charging schedules and energy usage.
+1. Charging Pattern Analysis – Analyze historical EV charging data to understand peak usage hours, charging demand, and station utilization.
+2. Charging Schedule Optimization – Recommend optimal charging schedules to balance demand and reduce peak-hour congestion.
+3. Energy Demand Prediction – Predict future charging demand based on historical patterns and user behavior.
+4. Cost Optimization Insights – Suggest charging during low-tariff periods to reduce electricity costs for EV users and charging station operators.
+Tech Stack (Mandatory)
+• IBM Bob + IBM Models
